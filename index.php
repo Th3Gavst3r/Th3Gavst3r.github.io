@@ -63,5 +63,6 @@
 	            </td>
 	        </tr>
 	    </table>
+	Your IP address is: <? echo $_SERVER["REMOTE_ADDR"]; ?>
 	</body>
 </html>
